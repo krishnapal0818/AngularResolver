@@ -6,9 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## If you want more details vist the below link
+## If you want more details visit the below link
 
-`https://medium.com/@singhkrishnapal0818/angular-resolver-with-example-cf23f6d38f7f`
+https://medium.com/@singhkrishnapal0818/angular-resolver-with-example-cf23f6d38f7f
 
 ## Further help
 
